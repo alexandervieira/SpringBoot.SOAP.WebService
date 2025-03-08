@@ -1,6 +1,6 @@
 ## Perfil
 
-Consulte o meu perfil <a href="https://github.com/alexandervsilva/alexandervsilva/blob/master/README.md">aqui</a>.
+Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieira/blob/master/README.md">aqui</a>.
 
 <h1 align="center" style="font-weight: bold;">Meu Projeto 💻</h1>
 
@@ -17,7 +17,7 @@ Consulte o meu perfil <a href="https://github.com/alexandervsilva/alexandervsilv
 
 ## Começo rápido
 
-Consulte a lista de comandos úteis do GIT <a href="https://github.com/alexandervieira/Repositorio.Default/blob/master/git.md">aqui</a>.
+Consulte a lista de comandos úteis do GIT <a href="https://github.com/alexandervieira/lista-comandos-git/blob/master/README.md">aqui</a>.
 
 ## Estrutura do repositório
 
@@ -32,7 +32,7 @@ Por favor, leia nossas [diretrizes de contribuição](https://reponame/blob/mast
 
 ## Criador
 
-- <https://github.com/alexandervsilva>
+- <https://github.com/alexandervieira>
 
 ## Agradecimentos
 
